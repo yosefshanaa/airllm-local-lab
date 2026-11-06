@@ -615,8 +615,8 @@ Chosen for: short (fits 20-token budget), unambiguous rubric, easily reproducibl
 
 ```bash
 # 1. Clone and install
-git clone https://github.com/yosefshanaa/HW5.git
-cd HW5
+git clone https://github.com/yosefshanaa/airllm-local-lab.git
+cd airllm-local-lab
 uv sync                   # creates .venv, installs all deps from uv.lock
 
 # 2. Configure secrets
